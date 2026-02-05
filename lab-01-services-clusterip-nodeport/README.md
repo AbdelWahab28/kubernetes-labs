@@ -34,6 +34,6 @@ lab-01-services-clusterip-nodeport/
 ├── Dockerfile
 ├── frontend/           # code de l'application React
 ├── deployment.yaml     # Deployment pour Kubernetes
-├── service-clusterip.yaml  # Service interne ClusterIP
-├── service-nodeport.yaml   # Service externe NodePort
+├── service_clusterip.yaml  # Service interne ClusterIP
+├── service_nodeport.yaml   # Service externe NodePort
 └── README.md
