@@ -47,6 +47,7 @@ lab-01-services-clusterip-nodeport/
 ├── deployment.yaml     # Deployment pour Kubernetes
 ├── service_clusterip.yaml  # Service interne ClusterIP
 ├── service_nodeport.yaml   # Service externe NodePort
+|-- Projet Kubernetes Minikube – Services _ ClusterIP & NodePort.pdf #VERSION PDF du Projet
 └── README.md
 ```
 ## Déploiement et exécution
