@@ -98,9 +98,9 @@ minikube stop
 
 <img width="607" height="172" alt="5" src="https://github.com/user-attachments/assets/5100df55-b76a-48af-9337-894d427d8967" />
 
+<img width="604" height="123" alt="7" src="https://github.com/user-attachments/assets/7fe07270-fd76-4476-b5dd-8c92e48f4cf4" />
+
 ## 📄 Documentation détaillée
 
 La documentation complète du projet (explications, captures d’écran...)
-est disponible sur mon LinkedIn
-
-<img width="604" height="123" alt="7" src="https://github.com/user-attachments/assets/7fe07270-fd76-4476-b5dd-8c92e48f4cf4" />
+est disponible sur mon LinkedIn : https://www.linkedin.com/in/abdourahamaneabdelwahab
