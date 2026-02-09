@@ -23,8 +23,9 @@ même après un redémarrage.
 lab-02-volumes-pv-pvc-storageclass/
 ├── pv.yaml
 ├── pvc.yaml
-├── pod.yaml
+|---pvc-dynamic.yaml
 ├── storageclass.yaml
+├── pod-nginx.yaml
 └── README.md
 ```
 ## Déploiement et exécution
@@ -44,10 +45,12 @@ kubectl get pv
 kubectl create -f pvc.yaml
 kubectl get pvc
 ```
-4️⃣ Créer le StorageClass
+4️⃣ Créer le StorageClass et d’un PVC dynamique
 ```bash
 kubectl create -f storageclass.yaml
 kubectl get sc
+kubectl -f pvc-dynamic
+kubectl get pvc
 ```
 5️⃣ Déploiement d’un Pod utilisant le PV
 ```bash
