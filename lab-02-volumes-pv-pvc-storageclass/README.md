@@ -68,3 +68,7 @@ minikube stop
 ```
 <img width="1089" height="527" alt="1" src="https://github.com/user-attachments/assets/a3a859f8-edb9-40c9-97b0-48aaf31fc3fe" />
 
+## 📄 Documentation détaillée
+
+La documentation complète du projet (explications, captures d’écran...)
+est disponible sur mon LinkedIn
