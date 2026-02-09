@@ -71,4 +71,4 @@ minikube stop
 ## 📄 Documentation détaillée
 
 La documentation complète du projet (explications, captures d’écran...)
-est disponible sur mon LinkedIn
+est disponible sur mon LinkedIn : https://www.linkedin.com/in/abdourahamaneabdelwahab
