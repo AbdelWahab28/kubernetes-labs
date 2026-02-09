@@ -23,7 +23,7 @@ Chaque projet reflète une problématique réelle rencontrée en environnement p
 | Lab | Description | Statut | Lien |
 |----|------------|--------|------|
 | 01 | Services Kubernetes : ClusterIP & NodePort | ✅ Terminer | [Lab 01](./lab-01-services-clusterip-nodeport) |
-| 02 | Volumes & Persistent Storage (PV / PVC + StorageClass) | ⏳ À venir | [Lab 02](./lab-02-volumes-pv-pvc-storageclass) |
+| 02 | Volumes & Persistent Storage (PV / PVC + StorageClass) | ✅ Terminer | [Lab 02](./lab-02-volumes-pv-pvc-storageclass) |
 | 03 | Secrets & ConfigMaps | ⏳ À venir | [Lab 03](./lab-03-secrets-configmaps) |
 | 04 | RBAC : gestion des permissions et contrôle d’accès | ⏳ À venir | [Lab 04](./lab-04-rbac) |
 | 05 | Ingress NGINX avec TLS & API Gateway | ⏳ À venir | [Lab 05](./lab-05-ingress-tls-apigateway) |
