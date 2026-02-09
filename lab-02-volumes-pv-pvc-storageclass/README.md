@@ -25,7 +25,7 @@ lab-02-volumes-pv-pvc-storageclass/
 ├── pvc.yaml
 |---pvc-dynamic.yaml
 ├── storageclass.yaml
-├── pod-nginx.yaml
+├── pod-pvc.yaml
 └── README.md
 ```
 ## Déploiement et exécution
