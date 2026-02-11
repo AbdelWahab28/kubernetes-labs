@@ -72,7 +72,16 @@ kubectl delete -f mysql-deployment.yaml
 kubectl delete -f mysql-pvc.yaml
 minikube stop
 ```
-<img width="1089" height="527" alt="1" src="https://github.com/user-attachments/assets/a3a859f8-edb9-40c9-97b0-48aaf31fc3fe" />
+
+<img width="1542" height="726" alt="2" src="https://github.com/user-attachments/assets/ba3a10df-3715-4f49-9c54-11e9dd688b52" />
+
+<img width="1318" height="530" alt="7" src="https://github.com/user-attachments/assets/e1bf36bf-6a32-4852-a26f-9229b3a24f61" />
+
+<img width="1176" height="810" alt="8" src="https://github.com/user-attachments/assets/a42f809f-64d7-4e14-a556-af7af3dc56b5" />
+
+<img width="1710" height="966" alt="11" src="https://github.com/user-attachments/assets/db4d7b7a-ba3e-405c-8f8d-d55ec24ff894" />
+
+<img width="1522" height="840" alt="12" src="https://github.com/user-attachments/assets/7134d524-3729-4795-a2f3-24df5874ce4f" />
 
 ## 📄 Documentation détaillée
 
