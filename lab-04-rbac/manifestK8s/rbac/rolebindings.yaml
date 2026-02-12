@@ -1,0 +1,30 @@
+# RoleBinding Laravel
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: bind-laravel
+  namespace: dev
+subjects:
+- kind: ServiceAccount
+  name: laravel-sa
+  namespace: dev
+roleRef:
+  kind: Role
+  name: laravel-role
+  apiGroup: rbac.authorization.k8s.io
+
+---
+# RoleBinding MySQL
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: bind-mysql
+  namespace: dev
+subjects:
+- kind: ServiceAccount
+  name: mysql-sa
+  namespace: dev
+roleRef:
+  kind: Role
+  name: mysql-role
+  apiGroup: rbac.authorization.k8s.io
