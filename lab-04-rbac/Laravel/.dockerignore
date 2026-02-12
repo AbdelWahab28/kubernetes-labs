@@ -1,0 +1,26 @@
+# Ignorer les fichiers Git
+.git
+.gitignore
+README.md
+# Ignorer les dossiers de cache ou temporaire
+node_modules
+vendor
+storage/*.key
+storage/*.log
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+
+# Ignorer fichiers de configuration locaux
+.env
+.env.*
+.env.*.backup
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les logs et dumps
+*.log
+*.sql
+*.sqlite
