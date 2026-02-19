@@ -27,8 +27,7 @@ Chaque projet reflète une problématique réelle rencontrée en environnement p
 | 03 | Secrets & ConfigMaps | ✅ Terminer | [Lab 03](./lab-03-secrets-configmaps) |
 | 04 | RBAC : gestion des permissions et contrôle d’accès | ✅ Terminer | [Lab 04](./lab-04-rbac) |
 | 05 | Ingress NGINX avec TLS & API Gateway | ⏳ À venir | [Lab 05](./lab-05-ingress-tls-apigateway) |
-| 06 | Déploiement Fullstack React + Laravel + MySQL sur Kubernetes | ⏳ À venir | [Lab 06](./lab-06-fullstack-react-laravel-k8s) |
-| 07 | kubeadm : Cluster Kubernetes multi-nœuds | ⏳ À venir | [Lab 07](./lab-07-kubeadm-multinode) |
+| 06 | kubeadm : Cluster Kubernetes multi-nœuds | ⏳ À venir | [Lab 06](./lab-06-kubeadm-multinode) |
 
 ---
 
