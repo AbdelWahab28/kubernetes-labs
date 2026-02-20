@@ -54,8 +54,7 @@ kubernetes-labs/
 ├── lab-03-secrets-configmaps/
 ├── lab-04-rbac/
 ├── lab-05-ingress-tls-apigateway/
-├── lab-06-fullstack-react-laravel-k8s/
-├── lab-07-kubeadm-multinode/
+├── lab-06-kubeadm-multinode/
 └── README.md
 ```
 ## 👤 Auteur
