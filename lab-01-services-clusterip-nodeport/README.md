@@ -69,17 +69,17 @@ docker images
 ```
 1️⃣ Deployment
 ```bash
-kubectl create -f deployment.yaml
+kubectl apply -f deployment.yaml
 kubectl get pods
 ```
 2️⃣ Service ClusterIP
 ```bash
-kubectl create -f service_clusterip.yaml
+kubectl apply -f service_clusterip.yaml
 kubectl get svc
 ```
 3️⃣ Service NodePort
 ```bash
-kubectl create -f service_nodeport.yaml
+kubectl apply -f service_nodeport.yaml
 kubectl get svc
 ```
 
